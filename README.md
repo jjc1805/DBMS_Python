@@ -17,3 +17,11 @@ This is the project on a Database Management System using Ptinker and Psycopg2 l
    This command will populate the database with values.
    
 # Creating the GUI and connecting using Psycopg2:
+All the files required are in the scripts folder. The Employee.py file includes the querys executed as well.
+All the files included in the folder are for the GUI of each table in our database,
+
+Ptinker library is mainly used for the design of the GUI and is a built in library with python3.
+
+Psycopg2 library is the library which we are using to connect our GUI with our postgres database.
+
+
