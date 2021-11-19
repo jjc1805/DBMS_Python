@@ -9,6 +9,7 @@ This is the project on a Database Management System using Ptinker and Psycopg2 l
 # Creating the Database:
 1. Under the Database folder, two files create.sql and insert.sql are included.
 2. In postgres terminal run the 2 files using,
+
         psql -U postgres -f <file_path of create.sql>
    This will create the database. For this project I've used a Music Label Database.
         
