@@ -2,7 +2,7 @@
 This is the project on a Database Management System using Ptinker and Psycopg2 libraries.
 
 # Initial Requirements:
-1. Your system must have python installed preferably version 3 and above.
+1. Your system must have python installed, preferably version 3 and above.
 2. Install the psycopg2 library.
 3. Install postgresSQL
 
@@ -23,5 +23,11 @@ All the files included in the folder are for the GUI of each table in our databa
 Ptinker library is mainly used for the design of the GUI and is a built in library with python3.
 
 Psycopg2 library is the library which we are using to connect our GUI with our postgres database.
+
+To execute the query's and the GUI just run the required python file in the terminal, for ex.,
+
+                               python3 Employee.py
+                               
+
 
 
